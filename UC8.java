@@ -1,4 +1,4 @@
-public class UC6 {
+public class UC8 {
 
     // Method to generate pattern for letter 'O'
     public static String[] getOPattern() {
